@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What does Retrieval-Augmented Generation (RAG) aim to improve in large language models?,a: The speed of response | b: The accuracy and relevance of responses | c: The size of the model | d: The cost of training,b
+What is the main challenge faced by large language models (LLMs)?,a: They are too small | b: They always provide accurate information | c: They may present false or outdated information | d: They cannot generate original content,c
+How does RAG enhance user trust?,a: By generating responses quickly | b: By providing source citations and references | c: By using only internal data | d: By avoiding user queries,b
+What is the process of creating external data in RAG?,a: Retraining the LLM | b: Converting data into numerical representations | c: Only using text data | d: Ignoring external sources,b
+What happens after the relevant information is retrieved in RAG?,a: It is discarded | b: It is used to augment the LLM prompt | c: It is sent to a different model | d: It is stored permanently,b
