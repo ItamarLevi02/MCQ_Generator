@@ -11,7 +11,7 @@ from src.mcqgenerator.MCQ_Generator import generate_evaluate_chain
 from src.mcqgenerator.logger import logging
 
 
-with open('/Users/itamarlevi/Desktop/MCQ_Generator/response.json','r') as file:
+with open('./response.json','r') as file:
     RESPONSE_JSON = json.load(file)
 
 
